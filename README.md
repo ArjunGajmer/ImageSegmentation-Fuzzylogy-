@@ -1,1 +1,2 @@
-# ImageSegmentation-fuzzylogy-
+# ImageSegmentation-fuzzy-Cmeans
+
